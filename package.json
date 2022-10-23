@@ -1,16 +1,16 @@
 {
-  "name": "วิธีแก้-repository-failed-github-api-returned-error-toomanyrequests",
-  "main": "./lib/repository-failed-github-api-returned-error-toomanyrequests",
+  "name": "tt55tt",
+  "main": "./lib/tt55tt",
   "version": "1.11.1",
-  "description": "วิธีแก้ Atom toomanyrequests ปัญหายอดฮิตของเหล่าสายเทา repository failed: github api returned error: toomanyrequests",
+  "description": "tt55tt",
   "keywords": [
-    "atom toomanyrequests",
-    "toomanyrequests"
+    "tt55tt",
+    "tt55tt"
   ],
   "activationCommands": {
-    "atom-workspace": "repository-failed-github-api-returned-error-toomanyrequests:toggle"
+    "atom-workspace": "tt55tt"
   },
-  "repository": "https://github.com/archawin99/repository-failed-github-api-returned-error-toomanyrequests",
+  "repository": "https://github.com/comsc107/tt55tt",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
