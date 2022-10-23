@@ -1,0 +1,19 @@
+{
+  "name": "วิธีแก้-repository-failed-github-api-returned-error-toomanyrequests",
+  "main": "./lib/repository-failed-github-api-returned-error-toomanyrequests",
+  "version": "1.11.1",
+  "description": "วิธีแก้ Atom toomanyrequests ปัญหายอดฮิตของเหล่าสายเทา repository failed: github api returned error: toomanyrequests",
+  "keywords": [
+    "atom toomanyrequests",
+    "toomanyrequests"
+  ],
+  "activationCommands": {
+    "atom-workspace": "repository-failed-github-api-returned-error-toomanyrequests:toggle"
+  },
+  "repository": "https://github.com/archawin99/repository-failed-github-api-returned-error-toomanyrequests",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
